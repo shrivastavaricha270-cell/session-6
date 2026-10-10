@@ -1,0 +1,11 @@
+---
+description: Rules for this Python learning project
+alwaysApply: true
+---
+
+- Explain the reasoning before making substantial changes.
+- Do not invent requirements.
+- Prefer small readable functions.
+- Handle obvious invalid input.
+- Suggest tests for changed behavior.
+- Never claim code was tested unless it was actually run.
